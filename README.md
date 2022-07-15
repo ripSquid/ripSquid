@@ -13,8 +13,7 @@
 ┃               ▀                 ▀                       ┃
 ┃                                                         ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-github: ripSquid
+Twitter: @ripSquidd
 discord: squid#5091
 
 ```
