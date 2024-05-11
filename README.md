@@ -1,4 +1,4 @@
-![Tux, the Linux mascot](https://minecraft.fandom.com/extensions-ucp/mw139/fandom/AgeDeclaration/resources/images/kid.png)
+![Tux, the Linux mascot]([https://minecraft.fandom.com/extensions-ucp/mw139/fandom/AgeDeclaration/resources/images/kid.png](https://i0.wp.com/www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif?fit=450%2C250&ssl=1))
 ```math
 \ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; right: 0; background-repeat: no-repeat; height: 498px; object-fit: cover; width: 280px; background: url('https://github.com/opcode86/aasdf/assets/69675267/0f6dc43e-facb-4e21-abef-2a92d00541ae');]{x0000}$}
 \ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; left: 0; background-repeat: no-repeat; height: 374px; object-fit: cover; width: 398px; background: url('https://github.com/opcode86/aasdf/assets/69675267/c82a487b-4c62-4bd0-9d1c-9eec3df40238');]{x0000}$}
